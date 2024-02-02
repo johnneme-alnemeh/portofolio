@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portofolio/static/css/main.c620e9f8.css",
-    "main.js": "/portofolio/static/js/main.0cd732d9.js",
-    "static/js/787.63a92781.chunk.js": "/portofolio/static/js/787.63a92781.chunk.js",
+    "main.css": "/portofolio/static/css/main.b15689b3.css",
+    "main.js": "/portofolio/static/js/main.90c01fe4.js",
+    "static/js/787.ae3ba4c0.chunk.js": "/portofolio/static/js/787.ae3ba4c0.chunk.js",
     "static/media/bg6.jpg": "/portofolio/static/media/bg6.f9f0eeb176fb43e625a6.jpg",
     "static/media/fa-solid-900.ttf": "/portofolio/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/ai-site-helping-with-software-production (1).jpg": "/portofolio/static/media/ai-site-helping-with-software-production (1).9efc86c144abd27dc1eb.jpg",
@@ -39,12 +39,12 @@
     "index.html": "/portofolio/index.html",
     "static/media/nav-icon1.svg": "/portofolio/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "static/media/nav-icon2.svg": "/portofolio/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
-    "main.c620e9f8.css.map": "/portofolio/static/css/main.c620e9f8.css.map",
-    "main.0cd732d9.js.map": "/portofolio/static/js/main.0cd732d9.js.map",
-    "787.63a92781.chunk.js.map": "/portofolio/static/js/787.63a92781.chunk.js.map"
+    "main.b15689b3.css.map": "/portofolio/static/css/main.b15689b3.css.map",
+    "main.90c01fe4.js.map": "/portofolio/static/js/main.90c01fe4.js.map",
+    "787.ae3ba4c0.chunk.js.map": "/portofolio/static/js/787.ae3ba4c0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c620e9f8.css",
-    "static/js/main.0cd732d9.js"
+    "static/css/main.b15689b3.css",
+    "static/js/main.90c01fe4.js"
   ]
 }
