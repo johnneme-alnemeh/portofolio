@@ -53,7 +53,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
               <a href="https://github.com/johnneme-alnemeh"><MDBIcon fab icon="github" className="nav-icon" /> </a>
-                <a href="#"><MDBIcon fab icon="linkedin" className="nav-icon" /></a>
+                <a href="www.linkedin.com/in/john-al-nemeh-41b4642ab"><MDBIcon fab icon="linkedin" className="nav-icon" /></a>
               </div>
               <HashLink to='#connect'>
                 <button className="vvd"><span>Let’s Connect</span></button>
