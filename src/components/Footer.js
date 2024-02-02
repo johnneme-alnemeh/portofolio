@@ -11,7 +11,11 @@ export default function Footer() {
 
         <div>
 
+<<<<<<< HEAD
           <a href="https://linkedin.com/in/john-al-nemeh-41b4642ab" className='me-4 text-reset'>
+=======
+          <a href="www.linkedin.com/in/john-al-nemeh-41b4642ab" className='me-4 text-reset'>
+>>>>>>> main
             <MDBIcon fab icon="linkedin" />
           </a>
 
