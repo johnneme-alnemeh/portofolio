@@ -406,6 +406,10 @@ border-color: transparent;
   border-radius: 6px;
 }
 
+.all-cards{
+  padding-top: 32%;
+}
+
 .bold {
   font-weight: bold;
   color: #f7f7f7 !important;
